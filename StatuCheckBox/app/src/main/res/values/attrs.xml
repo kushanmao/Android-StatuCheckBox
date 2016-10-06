@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ImageCheckBox">
+        <attr name="checked_state" format="integer" />
+        <attr name="checked" format="reference" />
+        <attr name="unchecked" format="reference" />
+        <attr name="checked_disabled" format="reference" />
+    </declare-styleable>
+</resources>
